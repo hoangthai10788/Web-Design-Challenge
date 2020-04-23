@@ -1,0 +1,87 @@
+#summary-pic {
+    float: left;
+    width: 320px;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+
+}
+
+.visualizations {
+    background-color: white;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    
+}
+
+
+.summary {
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+#summary-lat {
+    color: rgb(37, 175, 157);
+    font-size: 36px;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+
+.visualizations-img {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.img {
+    width: 150px;
+    height: 150px;
+    padding-right: 5px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 15px;
+
+}
+
+#visualizations-h2 {
+    color: rgb(37, 175, 157);
+
+}
+
+
+.navbar-brand {
+    background-color: rgb(37, 175, 157);
+    color: white;
+    font-size: 28px;
+    
+}
+
+.data-h1 {
+    color: rgb(37, 175, 157);
+}
+
+#comparison {
+    color: rgb(37, 175, 157);
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+
+@media only screen and (max-width: 768px) {
+    #summary-lat {
+        font-size: 24px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
